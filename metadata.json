@@ -1,0 +1,6 @@
+{
+  "name": "Zaha Cosmetics",
+  "description": "Premium luxury cosmetics e-commerce store in parrot green aesthetic with product management, shopping cart, and checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
